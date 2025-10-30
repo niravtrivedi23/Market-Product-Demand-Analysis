@@ -9,7 +9,6 @@
 This project focuses on analyzing **regional product demand patterns** across India using **data analytics and machine learning techniques**.  
 The insights help businesses make informed decisions in **inventory and distribution planning**.
 
-### Key Highlights
 - Identifies **state-wise product preferences** using clustering analysis.  
 - Optimizes **product distribution and inventory** based on demand.  
 - Reduces **unsold stock and operational waste** through targeted strategies.  
